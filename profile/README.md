@@ -2,6 +2,8 @@
 
 **Lean developer tools for the AI-agent era.** Fewer tokens, less noise, no filler.
 
+**Build log: [terse-labs.github.io](https://terse-labs.github.io/)** · every claim links to a public artifact.
+
 | Tool | What it does | Status |
 |---|---|---|
 | [tersetrim](https://github.com/terse-labs/tersetrim) | Argv-safe token-optimizing command wrapper for AI coding agents | **`pip install tersetrim`** |
